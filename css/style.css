@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+    color:#e58c43;
+}
+.name{
+    font-family: 'Lavishly Yours', cursive;
+    font-size:38px;
+    margin:-30px;color:#280903bb;
+    text-align: center;
+}
+
+.tag{
+    font-family: 'Dosis', sans-serif;
+    font-size: 15px;
+    color:#ff6200;
+}
+
+.img_header{
+    margin:-0px;
+}
+
+.section_title{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    color: #bd3b1f;
+text-align: center;
+}
+
+.header {
+    background-color: #faf3e3;
+    font-size: 5px;
+    color:#280903bb;
+    text-align: center; 
+    margin:0px;
+}
+
+.me { 
+    width:200px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+} 
+
+
+.intro {
+    display: block;
+    margin: 20px;
+    text-align: center; 
+}
+
+.info {
+    padding: 20px;
+}
+
+.leaf{
+    float: left;
+    width: 175px;
+    margin: 4px 10% 40px 30%;
+}
+.language{
+    padding:10px;
+    margin: 10px 5% 40px 5%;
+    display:block;
+    font-family: 'Dosis', sans-serif;
+}
+
+.leadership{
+    padding:10px;
+    margin: 10px 5% 40px 35%;
+    display:block;
+    font-family: 'Dosis', sans-serif;
+}
+
+.pie{
+    float: right;
+    width: 100px;
+    margin: -150px 40% 40px 40%;
+}
+.book{
+    float: left;
+    width: 175px;
+    margin: 40px 10% 40px 35%;
+}
+.skills{
+    margin: 10px 10% 40px 25%;
+    display:block;
+    font-family: 'Dosis', sans-serif;
+}
+
+.contact{
+    margin: 10px;
+    justify-content: center;  
+    align-items: center;  
+    text-align: center;
+    background-color: #ffc549;
+    font-size:18px;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    color:#ffae00;
+    display:inline-block;
+}
+.copyright{
+    padding:10px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    color: #bd3b1f;
+text-align: center;
+background-color: #ffd5b4;
+}
+a {
+    color:#7f69fe;
+    text-decoration: none;
+
+}
+hr {
+    border: 10px solid #d2bf94;
+  border-radius: 5px;
+}
+
+.form_info{
+    margin-left: 50px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color:#e58c43;  
+}
+
+.label{
+    float:left;
+}
